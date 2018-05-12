@@ -1,0 +1,30 @@
+_repo: History-of-English-Humour-Vol.-2_18906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: L'Estrange, A. G. K. (Alfred Guy Kingan)
+    aliases:
+    - Estrange, A. G. K. l' (Alfred Guy Kingan)
+    - L'Estrange, Alfred Guy Kingan
+    birthdate: 1832
+    deathdate: 1915
+    gutenberg_agent_id: '7931'
+    url: http://www.gutenberg.org/2009/agents/7931
+description: ''
+gutenberg_issued: '2006-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wit and humor -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English wit and humor -- History and criticism'
+title: History of English Humour, Vol. 2
+url: http://www.gutenberg.org/ebooks/18906
